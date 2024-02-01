@@ -1,0 +1,1 @@
+creating cards w/o using fetch api data, ie, just hard coded cards.
